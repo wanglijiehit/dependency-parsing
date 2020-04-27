@@ -12,7 +12,7 @@
     | CTB1 | 100000个词，325篇文章 | 2000年 | -- | LDC | [链接](https://pdfs.semanticscholar.org/2c72/257ae7a4a32dc60569f4e1fe4504b2678112.pdf) | 未发布 | N/A |
     | CTB2 | 100000个词，325篇文章 | 2001年 | Martha Palmer, et al. | LDC | [链接](https://arxiv.org/abs/cs/0204007) |[会员下载](https://catalog.ldc.upenn.edu/LDC2001T11) | N/A |
     | CTB4 | 404156词，664663个汉字，15162个句子，838个文件 | 2004年 | Martha Palmer, et al. | LDC | N/A |[会员下载](https://catalog.ldc.upenn.edu/LDC2004T05) | N/A |
-    | CTB5 | 507222词，824983个汉字，18782个句子，890个文件 | 2005年 | Martha Palmer, et al. | LDC | [链接](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/acl2005-parallel-entity-treebank-annotation.pdf) |[会员下载](https://www.ldc.upenn.edu/language-resources/data/obtaining) | N/A |
+    | CTB5 | 507222词，824983个汉字，18782个句子，890个文件 | 2005年 | Martha Palmer, et al. | LDC | [链接](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/acl2005-parallel-entity-treebank-annotation.pdf) |[会员下载](https://www.ldc.upenn.edu/language-resources/data/obtaining) |[2009 Conll Shared Tasks](https://ufal.mff.cuni.cz/conll2009-st/) |
     | CTB6 | 781351词，1285149个汉字，28295个句子，2036个文件 | 2007年 | Martha Palmer, et al. | LDC | N/A |[会员下载](https://catalog.ldc.upenn.edu/LDC2007T36) | N/A |
     | CTB7 | 1196329词，1931381个汉字，51447个句子，2448个文件 | 2010年 | Nianwen Xue, et al. | LDC | [链接](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/tlt9-parallel-aligned-treebank-corpora-at-ldc.pdf) |[会员下载](https://catalog.ldc.upenn.edu/LDC2010T07) | N/A |
     | CTB8 | 1620561词，2589848个汉字，71369个句子，3007个文件 | 2013年 | Nianwen Xue, et al. | LDC | N/A |[会员下载](https://catalog.ldc.upenn.edu/LDC2013T21) | N/A |
